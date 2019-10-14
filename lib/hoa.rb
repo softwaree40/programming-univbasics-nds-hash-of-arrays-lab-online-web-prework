@@ -9,7 +9,7 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
    
-  lBASE_HOA[show] << name
-  return lBASE_HOA
+  IBASE_HOA[show] << name
+  return IBASE_HOA
  
 end
